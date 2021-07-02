@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\bin\Debug\netcoreapp3.1\RandomNumberServer.exe
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\bin\Debug\netcoreapp3.1\RandomNumberServer.deps.json
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\bin\Debug\netcoreapp3.1\RandomNumberServer.runtimeconfig.json
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\bin\Debug\netcoreapp3.1\RandomNumberServer.runtimeconfig.dev.json
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\bin\Debug\netcoreapp3.1\RandomNumberServer.dll
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\bin\Debug\netcoreapp3.1\RandomNumberServer.pdb
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\obj\Debug\netcoreapp3.1\RandomNumberServer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\obj\Debug\netcoreapp3.1\RandomNumberServer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\obj\Debug\netcoreapp3.1\RandomNumberServer.AssemblyInfo.cs
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\obj\Debug\netcoreapp3.1\RandomNumberServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\obj\Debug\netcoreapp3.1\RandomNumberServer.dll
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\obj\Debug\netcoreapp3.1\RandomNumberServer.pdb
+C:\Users\USER\source\repos\RandomNumberServer\RandomNumberServer\obj\Debug\netcoreapp3.1\RandomNumberServer.genruntimeconfig.cache
