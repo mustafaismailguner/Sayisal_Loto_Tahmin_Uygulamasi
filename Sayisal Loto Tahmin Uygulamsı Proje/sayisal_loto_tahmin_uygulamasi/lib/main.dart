@@ -75,33 +75,56 @@ class _MyHomePageState extends State<MyHomePage> {
                     },
                   ),
                   padding: EdgeInsets.only(bottom: 50.0)),
-              Text(
-                'SAYILAR',
+              Container(
+                padding: EdgeInsets.only(bottom: 20.0),
+                child: Card(
+                  color: Colors.orange,
+                  child: Padding(
+                    padding: EdgeInsets.symmetric(vertical: 2.0),
+                    child: Row(
+                      children: [
+                        Padding(
+                            padding: EdgeInsets.symmetric(horizontal: 5.0),
+                            child: Text(
+                                "SAYILAR",
+                              style: const TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold),
+                            ),
+                        )
+                      ],
+                    ),
+                  ),
+                ),
               ),
-              Text(
-                '$randomNums0',
-                style: Theme.of(context).textTheme.headline4,
-              ),
-              Text(
-                '$randomNums1',
-                style: Theme.of(context).textTheme.headline4,
-              ),
-              Text(
-                '$randomNums2',
-                style: Theme.of(context).textTheme.headline4,
-              ),
-              Text(
-                '$randomNums3',
-                style: Theme.of(context).textTheme.headline4,
-              ),
-              Text(
-                '$randomNums4',
-                style: Theme.of(context).textTheme.headline4,
-              ),
-              Text(
-                '$randomNums5',
-                style: Theme.of(context).textTheme.headline4,
-              ),
+              Expanded(
+                  child: GridView.count(
+                crossAxisCount: 3,
+                children: [
+                  Text(
+                    '$randomNums0',
+                    style: Theme.of(context).textTheme.headline4,
+                  ),
+                  Text(
+                    '$randomNums1',
+                    style: Theme.of(context).textTheme.headline4,
+                  ),
+                  Text(
+                    '$randomNums2',
+                    style: Theme.of(context).textTheme.headline4,
+                  ),
+                  Text(
+                    '$randomNums3',
+                    style: Theme.of(context).textTheme.headline4,
+                  ),
+                  Text(
+                    '$randomNums4',
+                    style: Theme.of(context).textTheme.headline4,
+                  ),
+                  Text(
+                    '$randomNums5',
+                    style: Theme.of(context).textTheme.headline4,
+                  ),
+                ],
+              )),
             ],
           ),
         ),
@@ -120,6 +143,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 ),
               )),
-        ));
+        )
+    );
   }
 }
